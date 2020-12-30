@@ -27,4 +27,4 @@ git clone https://github.com/zad4y-fivem-scripts/esx_twt [esx]/esx_twt
 ### License
 
 - GNU License GPL V3.0
-- Read the license in this url <https://github.com/ZAD4YTV/esx_twt/LICENSE>
+- Read the license in this url <https://github.com/zad4y-fivem-scripts/esx_twt/blob/main/LICENSE>
