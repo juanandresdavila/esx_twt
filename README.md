@@ -10,12 +10,12 @@ This is a basic TWT chat message.
 
 ```sh
 cd resources
-git clone https://github.com/ZAD4YTV/esx_twt [esx]/esx_twt
+git clone https://github.com/zad4y-fivem-scripts/esx_twt [esx]/esx_twt
 ```
 
 #### Manualy
 
-- Download <https://github.com/ZAD4YTV/esx_twt/archive/master.zip>
+- Download <https://github.com/zad4y-fivem-scripts/esx_twt/archive/master.zip>
 - Put it in the `esx` repository
 
 ### Instalation
